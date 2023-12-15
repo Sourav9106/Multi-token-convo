@@ -1,1 +1,1 @@
-impot dot
+import dot
